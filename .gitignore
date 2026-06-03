@@ -1,0 +1,17 @@
+# FlipperWire output directory
+flipperwire/
+*.pyc
+__pycache__/
+*.pcap
+*.cap
+*.csv
+*.hc22000
+*.hccapx
+*.json
+!references/*.json
+.venv/
+venv/
+.env
+*.log
+.DS_Store
+Thumbs.db
